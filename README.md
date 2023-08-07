@@ -6,7 +6,8 @@ The application is the subject of the movie you want, the actors, the imdb score
 
 Use below steps to use movie search app;
 1- Install npm.
-2- Install git. Get this project from Github (git clone).
-3- For the project to work, the "cd movie-searching-app" command is used to switch to the relevant file.
-4- Install dependencies "npm install".
-5-You are in the relevant file.You can start the project with the "npm start" command.
+2- Install "npm i git". 
+3-Get this project from Github (git clone).
+4- For the project to work, the "cd movie-searching-app" command is used to switch to the relevant file.
+5- Install dependencies "npm install".
+6-You are in the relevant file.You can start the project with the "npm start" command.
