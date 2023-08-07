@@ -10,7 +10,7 @@ Use below steps to use movie search app;
 
 2- Install "npm i git". 
 
-3-Get this project from Github (git clone) "git clone https://github.com/Abiderlkr/react-movie-app.git".
+3-Get this project from Github (git clone) "git clone".
 
 4- For the project to work, the "cd movie-searching-app" command is used to switch to the relevant file.
 
